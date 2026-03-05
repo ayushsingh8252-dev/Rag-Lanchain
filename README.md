@@ -8,7 +8,7 @@ The goal of this repo is to learn RAG deeply by implementing real working exampl
 - local/offline RAG pipelines using Ollama
 - chatbot-style retrieval systems
 - LangChain chains and tool-based workflows
-
+bn
 This is a growing collection of experiments, notebooks, and mini-projects focused on building practical RAG systems.
 
 ---
