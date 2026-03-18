@@ -1,4 +1,4 @@
-# 🧠 RAG Advance Project learning and Experimentation
+# 🧠 RAG Advance Project learning and Experimentation s
 
 This repository is a **personal RAG (Retrieval-Augmented Generation) playground** where I experiment with and build projects using **LangChain**, vector databases, and different retrieval + generation strategies.
 
